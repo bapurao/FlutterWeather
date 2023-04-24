@@ -23,7 +23,7 @@ A simple weather App created using [Flutter](https://flutter.dev/) and [Dart](ht
 2. Then get your API key from https://home.openweathermap.org/api_keys.
 3. Clone the repo
    ```sh
-   git clone https://github.com/ArizArmeidi/FlutterWeather.git
+   git clone https://github.com/bapurao/FlutterWeather.git
    ```
 4. Install all the packages by typing
    ```sh
@@ -35,9 +35,7 @@ A simple weather App created using [Flutter](https://flutter.dev/) and [Dart](ht
    ```
 6. Run the App
 
-## Contact
-- [Ariz Armeidi](https://github.com/ArizArmeidi/) | [Twitter](https://twitter.com/ArizArmeidi) | [Instagram](https://www.instagram.com/ariz.armeidi/)
-- If you find the content of this repository useful and you have some extra money, you can donate to me through [PayPal](https://www.paypal.com/paypalme/arizarmeidi)
+
 
 ## License
 Distributed under the MIT License. See `LICENSE` for more information.
